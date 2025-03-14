@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/tanisha-gauns/ "target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp
 
 I'm <b>Tanisha </b> 
-right now Pursuing my master's in Applied Economics at the University of San Francisco.I’m currently focusing on developing my skills in Python (including Numpy, Pandas, and economic model implementations), Machine learning , Power BI, Tableau, SQL etc. 
+right now Pursuing my master's in Applied Economics at the University of San Francisco.I’m currently focusing on developing my skills in Python (including Numpy, Pandas,scikit learn and economic model implementations), Machine learning , Power BI, Tableau, SQL etc. 
 
 Beside coding I love Music ♬ ₊.🎧 and Trekking 🧗‍♀️
 
